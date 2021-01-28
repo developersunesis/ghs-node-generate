@@ -1,0 +1,17 @@
+{
+  "name": "ghs-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "developersunesis",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "nodejs-pptx": "^1.0.1",
+    "ppt-template": "^1.0.9",
+    "xml2js": "^0.4.23"
+  }
+}
